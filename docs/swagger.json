@@ -10,9 +10,9 @@
       "url" : "http://www.apache.org/licenses/LICENSE-2.0.html"
     }
   },
-  "host" : "hapi.esteem.app",
+  "host" : "xapi.esteem.app",
   "basePath" : "/",
-  "schemes" : [ "https", "http" ],
+  "schemes" : [ "https" ],
   "consumes" : [ "application/json" ],
   "produces" : [ "application/json" ],
   "filter": true,
