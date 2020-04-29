@@ -10,7 +10,7 @@
       "url" : "http://www.apache.org/licenses/LICENSE-2.0.html"
     }
   },
-  "host" : "xapi.hivesigner.com",
+  "host" : "hapi.esteem.app",
   "basePath" : "/",
   "schemes" : [ "https", "http" ],
   "consumes" : [ "application/json" ],
