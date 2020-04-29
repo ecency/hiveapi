@@ -10,7 +10,7 @@
       "url" : "http://www.apache.org/licenses/LICENSE-2.0.html"
     }
   },
-  "host" : "hiveapi.hivesigner.com",
+  "host" : "xapi.hivesigner.com",
   "basePath" : "/",
   "schemes" : [ "https", "http" ],
   "consumes" : [ "application/json" ],
@@ -2364,7 +2364,7 @@
         "summary" : "rc_api.find_rc_accounts",
         "description" : "Returns the available resource credits of accounts. Parameters: accounts:string array\n",
         "parameters" : [ {
-          "name" : "names[]",
+          "name" : "accounts[]",
           "in" : "query",
           "description" : "name of account",
           "required" : true,
